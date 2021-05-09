@@ -1,7 +1,5 @@
 # COVID-19_General_Tweets
 
-This is a repository which contains the data collected from Twitter regarding COVID-19 pandemic in general.
-
 
 This repository contains the data collected from Twitter regarding the COVID-19 pandemic in general.
 
